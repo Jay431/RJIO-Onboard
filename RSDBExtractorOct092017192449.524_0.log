@@ -14,7 +14,8 @@ Oct-09-2017 07:24:56.261 PM     Execute         Query           Success     Main
 Oct-09-2017 07:24:56.271 PM     End             Extractor                   D:/UniServeSource/UniServe-760-TataAIG/src/Tools/RSDBExtractor/RSDBExtractor/./../../../../bin/DBETemplates/hgfg_1092017192117367/hgfg.xml
 Oct-09-2017 07:24:56.271 PM     End             Extractor                   D:/UniServeSource/UniServe-760-TataAIG/src/Tools/RSDBExtractor/RSDBExtractor/./../../../../bin/DBETemplates/hgfg_1092017192117367/hgfg.xml
 Oct-09-2017 07:25:00.424 PM     Start           Extractor                   D:/UniServeSource/UniServe-760-TataAIG/src/Tools/RSDBExtractor/RSDBExtractor/./../../../../bin/DBETemplates/hgfg_1092017192117367/hgfg.xml
-Oct-09-2017 07:25:00.443 PM     Execute         Query           Success     SELECT dbo."MSreplication_options".optname, dbo."MSreplication_options".value, dbo."MSreplication_options".major_version, dbo."MSreplication_options".minor_version, dbo."MSreplication_options".revision, dbo."MSreplication_options".install_failures 
+Oct-09-2017 07:25:00.443 PM     Execute         Query           Success     SELECT dbo."MSreplication_options".optname, dbo."MSreplication_options".value, dbo."MSreplication_options".major_version, dbo."MSreplication_options".minor_version, dbo."MSreplication_options".revision, dbo."MSreplication_options".install_failures 
+Jayachandra
 
 FROM dbo."MSreplication_options"
 Oct-09-2017 07:25:00.443 PM     Execute         Query           Success     Main
